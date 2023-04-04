@@ -9,4 +9,4 @@
   - :link: [linkedin](https://www.linkedin.com/in/yavarguliyev10/)
   - :link: [whatsapp](https://wa.me/36702023270)
   - :link: [telegram](@yavarguliyev)
-  - :telephone_receiver: +994 55 904-68-23
+  - :telephone_receiver: [994 55-9046823](tel:+994559046823)
