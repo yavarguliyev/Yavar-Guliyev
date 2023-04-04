@@ -9,4 +9,3 @@
   - :link: [linkedin](https://www.linkedin.com/in/yavarguliyev10/)
   - :link: [whatsapp](https://wa.me/36702023270)
   - :link: [telegram](@yavarguliyev)
-  - :telephone_receiver: [020 7946 0123](tel:+442079460123)
